@@ -1,0 +1,1052 @@
+{
+  "schema": "v1",
+  "enabled": true,
+  "name": "MagicFinder by DominantNostril",
+  "pos": [
+    -91.0,
+    65.0
+  ],
+  "opacity": 1.0,
+  "trigger": {
+    "source": "Inherit",
+    "threshold": {
+      "threshold_type": "Always",
+      "amount_type": "Intensity"
+    }
+  },
+  "anchor": "Center",
+  "layer": 0,
+  "elements": [
+    {
+      "enabled": true,
+      "name": "If Available",
+      "pos": [
+        -1209.0,
+        -393.0
+      ],
+      "opacity": 1.0,
+      "trigger": {
+        "source": "Inherit",
+        "threshold": {
+          "threshold_type": "Always",
+          "amount_type": "Intensity"
+        }
+      },
+      "filter": {
+        "player": {
+          "combat": null,
+          "specs": [],
+          "traits": [],
+          "mounts": []
+        },
+        "map": {
+          "category": [],
+          "whitelist": true,
+          "ids": []
+        }
+      },
+      "animation": null,
+      "type": "IconList",
+      "layout": "Static",
+      "direction": "Down",
+      "size": [
+        32.0,
+        32.0
+      ],
+      "pad": 2.0,
+      "icons": [
+        {
+          "enabled": true,
+          "name": "Magic Find Boost | 50% MF | Bonfire, MF/Enchanted Booster, Fireworks",
+          "trigger": {
+            "source": {
+              "Buff": 10497
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/8/8a/Magic_Find_Boost.png"
+          },
+          "tint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "zoom": 1.0,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  0.3316583
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": true,
+          "duration_text": false,
+          "stacks_text": false
+        },
+        {
+          "enabled": true,
+          "name": "Celebration Bonus | 100% MF | Birthday/Celebration Booster",
+          "trigger": {
+            "source": {
+              "Buff": 20898
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/d/da/Celebration_Bonus.png"
+          },
+          "tint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "zoom": 1.0,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  0.32663316
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": true,
+          "duration_text": false,
+          "stacks_text": false
+        },
+        {
+          "enabled": true,
+          "name": "Guild Magic Find Banner Boost | MF 15% | Guild Gold and Magic Find Banners, Guild Heroes Banners and Guild Anniversary Banners",
+          "trigger": {
+            "source": {
+              "Buff": 17684
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/c/c6/Guild_Magic_Find_Banner_Boost.png"
+          },
+          "tint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "zoom": 1.0,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  0.34170854
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": false,
+          "duration_text": false,
+          "stacks_text": false
+        },
+        {
+          "enabled": true,
+          "name": "Spirit Banner Boost | MF 10% | Spirit Banner",
+          "trigger": {
+            "source": {
+              "Buff": 56041
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/c/c6/Guild_Magic_Find_Banner_Boost.png"
+          },
+          "tint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "zoom": 1.0,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  0.34170854
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": false,
+          "duration_text": false,
+          "stacks_text": false
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "name": "Reapply Often",
+      "pos": [
+        -1209.0,
+        -243.0
+      ],
+      "opacity": 1.0,
+      "trigger": {
+        "source": "Inherit",
+        "threshold": {
+          "threshold_type": "Always",
+          "amount_type": "Intensity"
+        }
+      },
+      "filter": {
+        "player": {
+          "combat": null,
+          "specs": [],
+          "traits": [],
+          "mounts": []
+        },
+        "map": {
+          "category": [],
+          "whitelist": true,
+          "ids": []
+        }
+      },
+      "animation": null,
+      "type": "IconList",
+      "layout": "Static",
+      "direction": "Down",
+      "size": [
+        32.0,
+        32.0
+      ],
+      "pad": 2.0,
+      "icons": [
+        {
+          "enabled": true,
+          "name": "Item Booster (effect) | 50% MF | Candy Corn, Item/Heroic/Enchanted Booster",
+          "trigger": {
+            "source": {
+              "Buff": 31080
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/7/73/Candy_Corn_Gobbler_Pack.png"
+          },
+          "tint": [
+            0.99999267,
+            1.0,
+            0.99999,
+            1.0
+          ],
+          "zoom": 1.0,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  0.99999267,
+                  1.0,
+                  0.99999,
+                  0.34170854
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": true,
+          "duration_text": false,
+          "stacks_text": false
+        },
+        {
+          "enabled": true,
+          "name": "New Year's Gift | 10% MF | Fireworks",
+          "trigger": {
+            "source": {
+              "Buff": 34227
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/c/c6/Experience_%28thirty_percent%29.png"
+          },
+          "tint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "zoom": 1.0,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  0.3467337
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": false,
+          "duration_text": false,
+          "stacks_text": false
+        },
+        {
+          "enabled": true,
+          "name": "Nourishment (Food) | 3%-40% MF",
+          "trigger": {
+            "source": {
+              "AnyBuff": [
+                9987,
+                34188
+              ]
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/c/ca/Nourishment_food.png"
+          },
+          "tint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "zoom": 1.0,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  0.3316583
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": true,
+          "duration_text": false,
+          "stacks_text": false
+        },
+        {
+          "enabled": true,
+          "name": "Enhancement (Utility)",
+          "trigger": {
+            "source": {
+              "AnyBuff": [
+                25632,
+                25631,
+                25630
+              ]
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/2/23/Nourishment_utility.png"
+          },
+          "tint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "zoom": 1.0,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  0.3467337
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": false,
+          "duration_text": false,
+          "stacks_text": false
+        },
+        {
+          "enabled": true,
+          "name": "Ace Racer | 25% MF | Lab Mount Race",
+          "trigger": {
+            "source": {
+              "Buff": 46785
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/e/e1/Roller_Beetle_%28overhead_icon%29.png"
+          },
+          "tint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "zoom": 0.666667,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  0.3316583
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": true,
+          "duration_text": false,
+          "stacks_text": false
+        },
+        {
+          "enabled": true,
+          "name": "Approval of the Mad King | 25%+ MF | Lab Boss Kills",
+          "trigger": {
+            "source": {
+              "Buff": 61620
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/5/5d/Ace_Racer.png"
+          },
+          "tint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "zoom": 1.0,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  0.34170854
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": true,
+          "duration_text": false,
+          "stacks_text": true
+        },
+        {
+          "enabled": true,
+          "name": "Grudging Approval | 25%+ MF | Madame Cookie",
+          "trigger": {
+            "source": {
+              "Buff": 63006
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/1/1d/Mini_Madam_Cookie.png"
+          },
+          "tint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "zoom": 0.76335895,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  0.3316583
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": true,
+          "duration_text": false,
+          "stacks_text": false
+        }
+      ]
+    },
+    {
+      "enabled": true,
+      "name": "Long Duration & Rare",
+      "pos": [
+        -1209.0,
+        3.0
+      ],
+      "opacity": 1.0,
+      "trigger": {
+        "source": "Inherit",
+        "threshold": {
+          "threshold_type": "Always",
+          "amount_type": "Intensity"
+        }
+      },
+      "filter": {
+        "player": {
+          "combat": null,
+          "specs": [],
+          "traits": [],
+          "mounts": []
+        },
+        "map": {
+          "category": [],
+          "whitelist": true,
+          "ids": []
+        }
+      },
+      "animation": null,
+      "type": "IconList",
+      "layout": "Static",
+      "direction": "Down",
+      "size": [
+        32.0,
+        32.0
+      ],
+      "pad": 2.0,
+      "icons": [
+        {
+          "enabled": true,
+          "name": "Enlightenment (Training Ground) | 10% MF",
+          "trigger": {
+            "source": {
+              "Buff": 63638
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/6/6e/Renown_Heart_%28map_icon%29.png?20151002085940"
+          },
+          "tint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "zoom": 1.0,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  1.0,
+                  0.99999,
+                  0.99999,
+                  0.3316583
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": true,
+          "duration_text": false,
+          "stacks_text": false
+        },
+        {
+          "enabled": true,
+          "name": "Guild Item Research | 10% MF | Bartender in Guild Hall",
+          "trigger": {
+            "source": {
+              "AnyBuff": [
+                33833
+              ]
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/e/ee/Endless_Toymaker%27s_Tonic.png"
+          },
+          "tint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "zoom": 1.1494249,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  0.98994976,
+                  0.98993987,
+                  0.98993987,
+                  0.35175878
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": false,
+          "duration_text": false,
+          "stacks_text": false
+        },
+        {
+          "enabled": true,
+          "name": "Ward's Remembrance | 15% MF | Astral Ward Memorial",
+          "trigger": {
+            "source": {
+              "AnyBuff": [
+                70763
+              ]
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/e/e6/Dominion_Tribune_Inspiration.png"
+          },
+          "tint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "zoom": 1.1494249,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  0.99999,
+                  0.9999947,
+                  1.0,
+                  0.36180907
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": false,
+          "duration_text": false,
+          "stacks_text": false
+        },
+        {
+          "enabled": true,
+          "name": "Black Lion Boost | 100% MF",
+          "trigger": {
+            "source": {
+              "Buff": 39282
+            },
+            "threshold": {
+              "threshold_type": "Always",
+              "amount_type": "Intensity"
+            }
+          },
+          "filter": {
+            "player": {
+              "combat": null,
+              "specs": [],
+              "traits": [],
+              "mounts": []
+            },
+            "map": {
+              "category": [],
+              "whitelist": true,
+              "ids": []
+            }
+          },
+          "icon": {
+            "Url": "https://wiki.guildwars2.com/images/a/a4/Black_Lion_Booster.png"
+          },
+          "tint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "zoom": 1.0,
+          "round": 0.0,
+          "conditions": [
+            {
+              "trigger": {
+                "ProgressThreshold": {
+                  "threshold_type": "Missing",
+                  "amount_type": "Intensity"
+                }
+              },
+              "properties": {
+                "tint": [
+                  1.0,
+                  1.0,
+                  1.0,
+                  0.32663316
+                ],
+                "zoom": null,
+                "round": null
+              }
+            }
+          ],
+          "duration_bar": false,
+          "duration_text": false,
+          "stacks_text": false
+        }
+      ]
+    }
+  ]
+}
