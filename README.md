@@ -1,3 +1,5 @@
+Disregard the files above and use the latest build on the right.
+
 # MagicFinder
 MagicFinder is a custom pack for the [Guild Wars 2](https://guildwars2.com) addon [Reffect](https://github.com/Zerthox/gw2-reffect/) that makes it easy to keep track of your Magic Find buffs when you're bag farming in the Mad King's Labyrinth.
 
