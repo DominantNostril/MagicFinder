@@ -1,6 +1,9 @@
 Disregard the files above and use the latest release on the right.
 
 # MagicFinder
+![mad king poster](https://github.com/user-attachments/assets/85f4c215-c526-4f96-bec1-13d4338899ea)
+
+
 MagicFinder is a custom pack for the [Guild Wars 2](https://guildwars2.com) addon [Reffect](https://github.com/Zerthox/gw2-reffect/) that makes it easy to keep track of your Magic Find buffs when you're bag farming in the Mad King's Labyrinth.
 
 Icons for Magic Find buffs are displayed in one or two columns that can be dragged anywhere on the screen. Buffs currently active on the character are displayed at full opacity, while missing and expired buffs are greyed out so you can quickly see what needs to be reapplied. 
