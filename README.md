@@ -27,7 +27,7 @@ All trackable Magic Find buffs that apply in the Labyrinth are included (see the
 * Enlightenment, +10% MF (Training Ground)
 * Guild Item Research, +10% MF (Bartender in Guild Hall)
 * Ward's Remembrance, +15% MF (Astral Ward Memorial)
-* Black Lion Boost, +100% MF (Black Lion Satuettes)
+* Black Lion Boost, +100% MF (Black Lion Statuettes)
 
 ### Food
 **Included Food:**
