@@ -5,7 +5,7 @@ Disregard the files above and use the latest release on the right.
 
 MagicFinder is a custom pack for the [Guild Wars 2](https://guildwars2.com) addon [Reffect](https://github.com/Zerthox/gw2-reffect/) that makes it easy to keep track of your Magic Find buffs when you're bag farming in the Mad King's Labyrinth.
 
-Icons for Magic Find buffs are displayed in one or two columns that can be dragged anywhere on the screen. Buffs currently active on the character are displayed at full opacity, while missing and expired buffs are greyed out so you can quickly see what needs to be reapplied. 
+Icons for Magic Find buffs are displayed in one or two columns that can be dragged anywhere on the screen. Buffs currently active on the character are displayed at full opacity, while missing and expired buffs are greyed-out so you can quickly see what needs to be reapplied. 
 
 ## Effects
 <img src="https://github.com/user-attachments/assets/b9018c29-287e-4026-b73c-ef8f21c9f2f8" width="6%">  <img src="https://github.com/user-attachments/assets/2a41aadb-1fff-4c45-9e0d-54f7d32795e7" width="8%">
@@ -45,4 +45,7 @@ Download the latest MagicFinder.json file from the right sidebar on Github and p
 To choose between the one- or two-column configuration, open Nexus in-game and click "Configure" on the Addons pane. Expand _MagicFinder by DominantNostril_ and select the _Single Column_ or _Two Column_ layout by checking or unchecking the enable boxes.
 
 <img src="https://github.com/user-attachments/assets/9bfde240-f706-4867-8b9f-181406e6d904" width="50%">
+
+## Contact
+You may reach out to DominantNostril.4753 in-game with compliments or bitter recriminations.
 
