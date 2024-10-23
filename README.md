@@ -33,8 +33,9 @@ The food effects commonly recommended for the Lab are implemented, but users may
 
 
 **Included Food:**
-* Chocolate Omnomberry Cream
-* Peppermint Omnomberry Bar
+* Chocolate Omnomberry Cream 9987
+* Peppermint Omnomberry Bar 34188
+* Spicy Pumpkin Cookie / Court Chef 15260
 
 ## Installation
 Download the latest MagicFinder.json file from the right sidebar on Github and place it in ``Guild Wars 2\addons\reffect\packs``. Enable it in-game under Nexus "Addons" and drag the icons wherever you want them on your screen.
