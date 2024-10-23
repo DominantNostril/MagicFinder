@@ -8,9 +8,9 @@ MagicFinder is a custom pack for the [Guild Wars 2](https://guildwars2.com) addo
 
 Icons for Magic Find buffs are displayed in one or two columns that can be dragged anywhere on the screen. Buffs currently active on the character are displayed at full opacity, while missing and expired buffs are greyed out so you can quickly see what needs to be reapplied. 
 
+## Effects
 <img src="https://github.com/user-attachments/assets/b9018c29-287e-4026-b73c-ef8f21c9f2f8" width="6%">  <img src="https://github.com/user-attachments/assets/2a41aadb-1fff-4c45-9e0d-54f7d32795e7" width="8%">
 
-## Effects
 Effects are loosely grouped into three sections according to expiration and availability. Some effects use alternate icons to more easily distinguish them. For example, the _Ace Racer,_ _Approval of the Mad King_, and _Grudging Approval_ buffs all have the same icon on your in-game effects monitor, so MagicFinder uses a racing beetle and cat icon for the first and last, respectively.
 
 All trackable Magic Find buffs that apply in the Labyrinth are included (see the wiki for a [complete list Magic Find buffs and sources](https://wiki.guildwars2.com/wiki/Magic_Find#Attribute)). These are:
@@ -30,15 +30,15 @@ All trackable Magic Find buffs that apply in the Labyrinth are included (see the
 * Ward's Remembrance, +15% MF (Astral Ward Memorial)
 * Black Lion Boost, +100% MF (Black Lion Satuettes)
 
-The food effects commonly recommended for the Lab are implemented, but users may manually add the effect IDs for whichever other nourishment they're using ([see this wiki page](https://wiki.guildwars2.com/wiki/Guild_Wars_2_Wiki:Projects/Nourishment_effect_ids) for nourishment effect IDs). Note that only three utility consumables have Magic Find so all are implemented.
-
-<img src="https://github.com/user-attachments/assets/0ef47c05-3144-4cd8-83e0-c746eb9d9d8d" width="50%">
-
-
+### Food
 **Included Food:**
 * Chocolate Omnomberry Cream 9987
 * Peppermint Omnomberry Bar 34188
 * Spicy Pumpkin Cookie / Court Chef 15260
+
+The food effects commonly recommended for the Lab are implemented, but users may manually add the effect IDs for whichever other nourishment they're using ([see this wiki page](https://wiki.guildwars2.com/wiki/Guild_Wars_2_Wiki:Projects/Nourishment_effect_ids) for nourishment effect IDs). Note that only three utility consumables have Magic Find so all are implemented.
+
+<img src="https://github.com/user-attachments/assets/0ef47c05-3144-4cd8-83e0-c746eb9d9d8d" width="50%">
 
 ## Installation
 Download the latest MagicFinder.json file from the right sidebar on Github and place it in ``Guild Wars 2\addons\reffect\packs``. Enable it in-game under Nexus "Addons" and drag the icons wherever you want them on your screen.
