@@ -1,7 +1,7 @@
 Disregard the files above and use the latest release on the right.
 
 # MagicFinder
-<img src="https://github.com/user-attachments/assets/85f4c215-c526-4f96-bec1-13d4338899ea" width="88%">
+<img src="https://github.com/user-attachments/assets/868228db-0a4b-4d61-bb8f-314705f90052" width="88%">
 
 MagicFinder is a custom pack for the [Guild Wars 2](https://guildwars2.com) addon [Reffect](https://github.com/Zerthox/gw2-reffect/) that makes it easy to keep track of your Magic Find buffs when you're bag farming in the Mad King's Labyrinth.
 
@@ -12,7 +12,7 @@ Icons for Magic Find buffs are displayed in one or two columns that can be dragg
 
 Effects are loosely grouped into three sections according to expiration and availability. Some effects use alternate icons to more easily distinguish them. For example, the _Ace Racer,_ _Approval of the Mad King_, and _Grudging Approval_ buffs all have the same icon on your in-game effects monitor, so MagicFinder uses a racing beetle and cat icon for the first and last, respectively.
 
-All trackable Magic Find buffs that apply in the Labyrinth are included (see the wiki for a [complete list Magic Find buffs and sources](https://wiki.guildwars2.com/wiki/Magic_Find#Attribute)). These are:
+All trackable Magic Find buffs that apply in the Labyrinth are included (see the wiki for a [complete list of Magic Find buffs and sources](https://wiki.guildwars2.com/wiki/Magic_Find#Attribute)). These are:
 * Magic Find Boost, +50% MF (Bonfire, MF/Enchanted Booster, Fireworks)
 * Celebration Bonus, +100% MF (Birthday/Celebration Booster)
 * Guild Magic Find Banner Boost, +15% (Guild Gold and Magic Find Banners, Guild Heroes Banners, and Guild Anniversary Banners)
