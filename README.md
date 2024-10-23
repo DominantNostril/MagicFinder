@@ -9,3 +9,10 @@ Buffs are loosely grouped into three sections according to expiration and availa
 
 ![image](https://github.com/user-attachments/assets/b9018c29-287e-4026-b73c-ef8f21c9f2f8)   ![image](https://github.com/user-attachments/assets/2a41aadb-1fff-4c45-9e0d-54f7d32795e7)
 
+All trackable magic find buffs that apply in the Labyrinth should be included. See the wiki for a [complete list Magic Find buffs](https://wiki.guildwars2.com/wiki/Magic_Find#Attribute).
+
+Only a few food and utility effects are currently implemented, so users may need to manually add the two effect IDs for whichever nourishment they're using ([see this wiki page](https://wiki.guildwars2.com/wiki/Guild_Wars_2_Wiki:Projects/Nourishment_effect_ids) for nourishment effect IDs).
+
+Included Food: Chocolate Omnomberry Cream, Peppermint Omnomberry Bar
+
+Included Utility: Flask of Pumpkin Oil, Lump of Crystallized Nougat, Sharpening Skull
