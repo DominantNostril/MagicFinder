@@ -12,13 +12,13 @@ Effects are loosely grouped into three sections according to expiration and avai
 
 <img src="https://github.com/user-attachments/assets/b9018c29-287e-4026-b73c-ef8f21c9f2f8" width="6%">  <img src="https://github.com/user-attachments/assets/2a41aadb-1fff-4c45-9e0d-54f7d32795e7" width="8%">
 
-On the two-column layout only (as of this release), some expired buffs are colored red. These are the buffs assumed to be most desired for quick reapplication.
+On the two-column layout only (as of this release), some key expired buffs are colored red.
 
 ### Popup Bar
 
 Certain buffs, when expired, will pop-up in a row above the action bars. These are the buffs assumed to be easy and quick for a lab runner to reapply at will. The pop-ups are only visible in the Labyrinth.
 
-<img src="https://github.com/user-attachments/assets/2f68bb48-f456-408b-b6bc-fd744c121ef6" width="45%">  <img src="https://github.com/user-attachments/assets/db153267-3637-461e-8b1d-1eb9b8db1af0" width="45%">
+<img src="https://github.com/user-attachments/assets/2f68bb48-f456-408b-b6bc-fd744c121ef6" width="43.5%">  <img src="https://github.com/user-attachments/assets/db153267-3637-461e-8b1d-1eb9b8db1af0" width="50%">
 
 ---
 All trackable Magic Find buffs that apply in the Labyrinth are included in the main columns (see the wiki for a [complete list of Magic Find buffs and sources](https://wiki.guildwars2.com/wiki/Magic_Find#Attribute)). These are:
