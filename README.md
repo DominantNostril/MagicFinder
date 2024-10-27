@@ -12,7 +12,7 @@ Effects are loosely grouped into three sections according to expiration and avai
 
 <img src="https://github.com/user-attachments/assets/b9018c29-287e-4026-b73c-ef8f21c9f2f8" width="6%">  <img src="https://github.com/user-attachments/assets/2a41aadb-1fff-4c45-9e0d-54f7d32795e7" width="8%">
 
-On the two-column layout only (as of this release), some key expired buffs are colored red.
+On the two-column layout only (as of this release), key expired buffs are colored red in the Labyrinth. This way, effects can be easily monitored anywhere but only call extra attention when Lab running.
 
 ### Popup Bar
 
