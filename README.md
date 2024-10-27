@@ -16,7 +16,7 @@ On the two-column layout only (as of this release), key expired buffs are colore
 
 ### Popup Bar
 
-Certain buffs, when expired, will pop-up in a row above the action bars. These are the buffs assumed to be easy and quick for a lab runner to reapply at will. The pop-ups are only visible in the Labyrinth.
+Key buffs, when expired, will pop-up in a row above the action bars. These are the buffs assumed to be easy and quick for a lab runner to reapply at will. The pop-ups are only visible in the Labyrinth.
 
 <img src="https://github.com/user-attachments/assets/2f68bb48-f456-408b-b6bc-fd744c121ef6" width="43.5%">  <img src="https://github.com/user-attachments/assets/db153267-3637-461e-8b1d-1eb9b8db1af0" width="50%">
 
