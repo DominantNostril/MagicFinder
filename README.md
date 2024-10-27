@@ -57,5 +57,5 @@ To choose between the one- or two-column configuration, open Nexus in-game and c
 <img src="https://github.com/user-attachments/assets/9bfde240-f706-4867-8b9f-181406e6d904" width="50%">
 
 ## Contact
-You can reach DominantNostril.4753 in-game for compliments and bitter recriminations.
+You can reach DominantNostril.4753 in-game for compliments and recriminations.
 
