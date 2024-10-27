@@ -3,16 +3,25 @@ Disregard the files above and use the latest release on the right.
 # MagicFinder
 <img src="https://github.com/user-attachments/assets/868228db-0a4b-4d61-bb8f-314705f90052" width="88%">
 
-MagicFinder is a custom pack for the [Guild Wars 2](https://guildwars2.com) addon [Reffect](https://github.com/Zerthox/gw2-reffect/) that makes it easy to keep track of your Magic Find buffs when you're bag farming in the Mad King's Labyrinth.
+MagicFinder is a custom pack for the Guild Wars 2 addon [Reffect](https://github.com/Zerthox/gw2-reffect/) that makes it easy to keep track of your Magic Find buffs when you're bag farming in the Mad King's Labyrinth.
 
 Icons for Magic Find buffs are displayed in one or two columns that can be dragged anywhere on the screen. Buffs currently active on the character are displayed at full opacity, while missing and expired buffs are greyed-out so you can quickly see what needs to be reapplied. 
 
 ## Effects
-<img src="https://github.com/user-attachments/assets/b9018c29-287e-4026-b73c-ef8f21c9f2f8" width="6%">  <img src="https://github.com/user-attachments/assets/2a41aadb-1fff-4c45-9e0d-54f7d32795e7" width="8%">
-
 Effects are loosely grouped into three sections according to expiration and availability. Some effects use alternate icons to more easily distinguish them. For example, the _Ace Racer,_ _Approval of the Mad King_, and _Grudging Approval_ buffs all have the same icon on your in-game effects monitor, so MagicFinder uses a racing beetle and cat icon for the first and last, respectively.
 
-All trackable Magic Find buffs that apply in the Labyrinth are included (see the wiki for a [complete list of Magic Find buffs and sources](https://wiki.guildwars2.com/wiki/Magic_Find#Attribute)). These are:
+<img src="https://github.com/user-attachments/assets/b9018c29-287e-4026-b73c-ef8f21c9f2f8" width="6%">  <img src="https://github.com/user-attachments/assets/2a41aadb-1fff-4c45-9e0d-54f7d32795e7" width="8%">
+
+On the two-column layout only (as of this release), some expired buffs are colored red. These are the buffs assumed to be most desired for quick reapplication.
+
+### Popup Bar
+
+Certain buffs, when expired, will pop-up in a row above the action bars. These are the buffs assumed to be easy and quick for a lab runner to reapply at will. The pop-ups are only visible in the Labyrinth.
+
+<img src="https://github.com/user-attachments/assets/2f68bb48-f456-408b-b6bc-fd744c121ef6" width="45%">  <img src="https://github.com/user-attachments/assets/db153267-3637-461e-8b1d-1eb9b8db1af0" width="45%">
+
+---
+All trackable Magic Find buffs that apply in the Labyrinth are included in the main columns (see the wiki for a [complete list of Magic Find buffs and sources](https://wiki.guildwars2.com/wiki/Magic_Find#Attribute)). These are:
 * Magic Find Boost, +50% MF (Bonfire, MF/Enchanted Booster, Fireworks)
 * Celebration Bonus, +100% MF (Birthday/Celebration Booster)
 * Guild Magic Find Banner Boost, +15% (Guild Gold and Magic Find Banners, Guild Heroes Banners, and Guild Anniversary Banners)
@@ -29,6 +38,7 @@ All trackable Magic Find buffs that apply in the Labyrinth are included (see the
 * Ward's Remembrance, +15% MF (Astral Ward Memorial)
 * Black Lion Boost, +100% MF (Black Lion Statuettes)
 
+---
 ### Food
 **Included Food:**
 * Chocolate Omnomberry Cream 9987
@@ -47,5 +57,5 @@ To choose between the one- or two-column configuration, open Nexus in-game and c
 <img src="https://github.com/user-attachments/assets/9bfde240-f706-4867-8b9f-181406e6d904" width="50%">
 
 ## Contact
-You may reach out to DominantNostril.4753 in-game with compliments or bitter recriminations.
+You can reach DominantNostril.4753 in-game for compliments and bitter recriminations.
 
