@@ -45,7 +45,7 @@ All trackable Magic Find buffs that apply in the Labyrinth are included in the m
 * Peppermint Omnomberry Bar 34188
 * Spicy Pumpkin Cookie / Court Chef 15260
 
-The food effects commonly recommended for the Lab are implemented, but users may manually add the effect IDs for whichever other nourishment they're using ([see this wiki page](https://wiki.guildwars2.com/wiki/Guild_Wars_2_Wiki:Projects/Nourishment_effect_ids) for nourishment effect IDs). Note that only three utility consumables have Magic Find so all are implemented.
+The food effects commonly recommended for the Lab are implemented, but users may manually add the effect IDs for whichever other nourishment they're using ([see this wiki page](https://wiki.guildwars2.com/wiki/Guild_Wars_2_Wiki:Projects/Nourishment_effect_ids) for nourishment effect IDs). All utility consumables with Magic Find are implemented (there are only three).
 
 <img src="https://github.com/user-attachments/assets/0ef47c05-3144-4cd8-83e0-c746eb9d9d8d" width="50%">
 
