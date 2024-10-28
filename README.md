@@ -8,11 +8,11 @@ MagicFinder is a custom pack for the Guild Wars 2 addon [Reffect](https://github
 Icons for Magic Find buffs are displayed in one or two columns that can be dragged anywhere on the screen. Buffs currently active on the character are displayed at full opacity, while missing and expired buffs are greyed-out so you can quickly see what needs to be reapplied. Key buffs pop-up above the skill bar when expired. 
 
 ## Effects
-Effects are loosely grouped into three sections according to expiration and availability. Some effects use alternate icons to more easily distinguish them. For example, the _Ace Racer,_ _Approval of the Mad King_, and _Grudging Approval_ buffs all have the same icon on your in-game effects monitor, so MagicFinder uses a racing beetle and cat icon for the first and last, respectively.
+Effects are loosely grouped into three sections according to expiration and availability. On the two-column layout only (as of this release), key expired buffs are colored red while in the Labyrinth. This way, effects can be easily monitored anywhere but only call extra attention while Lab running.
 
 <img src="https://github.com/user-attachments/assets/b9018c29-287e-4026-b73c-ef8f21c9f2f8" width="6%">  <img src="https://github.com/user-attachments/assets/2a41aadb-1fff-4c45-9e0d-54f7d32795e7" width="8%">
 
-On the two-column layout only (as of this release), key expired buffs are colored red in the Labyrinth. This way, effects can be easily monitored anywhere but only call extra attention when Lab running.
+Some effects use alternate icons to more easily distinguish them. For example, the _Ace Racer,_ _Approval of the Mad King_, and _Grudging Approval_ buffs all use the same icon on your in-game effects monitor, so MagicFinder uses a racing beetle and cat icon for the first and last, respectively.
 
 ### Popup Bar
 
