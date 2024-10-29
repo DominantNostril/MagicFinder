@@ -38,6 +38,8 @@ All trackable Magic Find buffs that apply in the Labyrinth are included in the m
 * Ward's Remembrance, +15% MF (Astral Ward Memorial)
 * Black Lion Boost, +100% MF (Black Lion Statuettes)
 
+The Extra Life and Welcome Back bonuses are not tracked since they can't be applied or removed.
+
 ---
 ### Food
 **Included Food:**
