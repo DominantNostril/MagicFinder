@@ -66,7 +66,7 @@ To choose between the one- or two-column configuration:
 * Open Nexus in-game from the icon on the top left of your screen
 * Click "Configure" on the Addons pane
 * Expand _MagicFinder by DominantNostril_
-* Select the _Single Column_ or _Two Column_ layout by checking or unchecking the "Enabled" boxes
+* Select the _Single Column_ or _Two Column_ layout by checking or unchecking the corresponding "Enabled" boxes
 
 <img src="https://github.com/user-attachments/assets/9bfde240-f706-4867-8b9f-181406e6d904" width="50%">
 
