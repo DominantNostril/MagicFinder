@@ -16,7 +16,7 @@ Buff effects are loosely grouped into three sections according to expiration and
 
 <img src="https://github.com/user-attachments/assets/b9018c29-287e-4026-b73c-ef8f21c9f2f8" width="6%">  <img src="https://github.com/user-attachments/assets/2a41aadb-1fff-4c45-9e0d-54f7d32795e7" width="8%">
 
-MagicFinder uses alternate icons for some effects to more easily distinguish them. For example, the _Ace Racer,_ _Approval of the Mad King_, and _Grudging Approval_ buffs normally all use the same icon on your in-game effects monitor, so MagicFinder uses a racing beetle and cat icon for the first and last, respectively.
+MagicFinder uses alternate icons for some effects to more easily distinguish them. For example, the _Ace Racer,_ _Approval of the Mad King_, and _Grudging Approval_ buffs normally all use the same icon on your in-game effects monitor, so MagicFinder uses a racing beetle for _Racer_ and cat icon for _Approval_.
 
 ### Popup Bar
 
