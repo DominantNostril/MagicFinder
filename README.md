@@ -64,7 +64,7 @@ The food effects commonly recommended for the Lab are implemented, but users may
 ## Installation
 Download the latest MagicFinder.json file from the right sidebar on this Github page and place it in ``Guild Wars 2\addons\reffect\packs``. Enable MagicFinder in-game under Nexus "Addons" and drag the icon bars wherever you want them on your screen.
 
-To choose between the one- or two-column configuration:
+To choose between the one- or two-column layouts:
 * Open Nexus in-game from the icon on the top left of your screen
 * Click "Configure" on the Addons pane
 * Expand _MagicFinder by DominantNostril_
