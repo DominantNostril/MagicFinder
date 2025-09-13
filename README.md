@@ -48,18 +48,19 @@ The Extra Life and Welcome Back bonuses are not tracked since they can't be appl
 
 ---
 ### Food & Utility
-**Included Utility:**  
+**Included Utility**  
 All three utility consumables with Magic Find are included. They are:
 * Flask of Pumpkin Oil
 * Lump of Crystallized Nougat
 * Sharpening Skull
 
-**Included Food:**
+**Included Food**  
+The food effects commonly recommended for the Lab are implemented:
 * Chocolate Omnomberry Cream 9987
 * Peppermint Omnomberry Bar 34188
 * Spicy Pumpkin Cookie / Court Chef 15260
 
-The food effects commonly recommended for the Lab are implemented, but users may manually add the effect IDs for whichever other nourishment they're using ([see this wiki page](https://wiki.guildwars2.com/wiki/Guild_Wars_2_Wiki:Projects/Nourishment_effect_ids) for nourishment effect IDs). 
+Users may manually add the effect IDs for whichever other nourishment they're using ([see this wiki page](https://wiki.guildwars2.com/wiki/Guild_Wars_2_Wiki:Projects/Nourishment_effect_ids) for nourishment effect IDs). 
 
 <img src="https://github.com/user-attachments/assets/0ef47c05-3144-4cd8-83e0-c746eb9d9d8d" width="50%">
 
