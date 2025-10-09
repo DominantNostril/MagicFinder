@@ -30,7 +30,8 @@ Certain buffs, when expired, will pop-up in a row above the action bars. These a
 All trackable Magic Find buffs that apply in the Labyrinth are included in the main columns (see the wiki for a [complete list of Magic Find buffs and sources](https://wiki.guildwars2.com/wiki/Magic_Find#Attribute)). These are:
 * Magic Find Boost, +50% MF (Bonfire, MF/Enchanted Booster, Fireworks)
 * Celebration Bonus, +100% MF (Birthday/Celebration Booster)
-* Guild Magic Find Banner Boost, +15% (Guild Gold and Magic Find Banners, Guild Heroes Banners, and Guild Anniversary Banners)
+* Guild Heroes Banner Boost / Guild Magic Find Banner Boost, +15% (Guild Heroes Banners, Guild Anniversary Banners, Guild Gold and Magic Find Banners)
+  * _Note that previously, all three banners listed provided the Guild Magic Find Banner Boost effect, which has now been replaced by Guild Heroes Banner Boost effect. Both effects provide the same Magic Find buff)_
 * Spirit Banner Boost, +10% MF (Spirit Banner)
 * Item Booster (effect), +50% MF (Candy Corn Gobbler, Item/Heroic/Enchanted Booster)
 * New Year's Gift, +10% MF (Fireworks)
