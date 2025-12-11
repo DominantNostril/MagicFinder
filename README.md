@@ -48,7 +48,7 @@ All trackable Magic Find buffs that apply in the Labyrinth are included in the m
 The Extra Life and Welcome Back bonuses are not tracked since they can't be applied or removed.
 
 ---
-### Food & Utility (aka Nourishment)
+### Food & Utility
 **Included Utility**  
 All three utility consumables with Magic Find are included. They are:
 * Flask of Pumpkin Oil
